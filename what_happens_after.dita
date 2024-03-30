@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="what_happens_after">
+    <title>What happens after you change your password</title>
+    <shortdesc>Explains how the change password takes effect</shortdesc>
+    <refbody>
+        <section id="section_y2p_1zm_s1c">
+            <p>If you change or reset your password, you’ll be signed out everywhere except:</p>
+            <ul id="ul_om5_hzm_s1c">
+                <li>Devices you use to verify that it's you when you sign in.</li>
+                <li>Some devices with third-party apps to which you've given account access.<ul
+                        id="ul_pnj_kzm_s1c">
+                        <li>Learn how to remove an app's access to your account.<xref
+                                href="http://www.google.com" format="html" scope="external">Learn
+                                how to remove an app's access to your account.</xref></li>
+                    </ul></li>
+                <li>Helpful home devices that you've given account access.<ul id="ul_umy_rzm_s1c">
+                        <li><xref href="http://www.google.com" format="html" scope="external">Learn
+                                how to unlink these devices from your Google Account</xref></li>
+                    </ul></li>
+            </ul>
+        </section>
+    </refbody>
+</reference>
